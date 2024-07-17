@@ -1,0 +1,29 @@
+.button-style-inverted,.button-style-classy{
+    font-family: `Helvetica`, `Times New Roman`, `sans-serif`;
+    font-size: 20px;
+}
+
+
+.button-style-inverted{
+    background-color: black;
+    color: white;
+}
+
+.button-style-classy{
+    background-color: yellow;
+}
+
+/* .inverted,
+.fancy {
+  font-family: Helvetica, "Times New Roman", sans-serif;
+  font-size: 28px;
+}
+
+.inverted {
+  background-color: black;
+  color: white;
+}
+
+.fancy {
+  background-color: yellow;
+} */
